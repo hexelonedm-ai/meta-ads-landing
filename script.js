@@ -1,0 +1,1 @@
+document.querySelectorAll('.faq-btn').forEach(b=>b.onclick=()=>{let d=b.nextElementSibling;d.style.display=d.style.display==='block'?'none':'block';});
